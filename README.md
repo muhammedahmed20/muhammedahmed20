@@ -23,7 +23,7 @@ Always experimenting, always improving.
 
 ### 📫 Reach me
 
-• LinkedIn: [mohamed-ahmed](https://www.linkedin.com/in/mohamed-ahmed-486650224)  
+• LinkedIn: [muhammed-ahmed](https://www.linkedin.com/in/mohamed-ahmed-486650224)  
 • Portfolio: Coming soon
 
 Open for freelance work and collaborations.
