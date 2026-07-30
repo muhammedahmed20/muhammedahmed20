@@ -74,14 +74,54 @@ Fast load times and clean architecture on every project I ship.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Project Name 1](https://github.com/muhammedahmed20/repo-name)**
+
+Short one-line description of what it does and the problem it solves.
+
+`React` `Tailwind` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+**[Project Name 2](https://github.com/muhammedahmed20/repo-name)**
+
+Short one-line description of what it does and the problem it solves.
+
+`Next.js` `TypeScript` `Strapi`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Project Name 3](https://github.com/muhammedahmed20/repo-name)**
+
+Short one-line description of what it does and the problem it solves.
+
+`React` `Zustand` `Axios`
+
+</td>
+<td width="50%" valign="top">
+
+**[Project Name 4](https://github.com/muhammedahmed20/repo-name)**
+
+Short one-line description of what it does and the problem it solves.
+
+`shadcn/ui` `Motion` `Supabase`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=muhammedahmed20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammedahmed20&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=muhammedahmed20&theme=tokyonight&hide_border=true" />
+*More projects on my [portfolio](https://mohamed-elgamal-six.vercel.app/) →*
 
 </div>
 
@@ -98,6 +138,6 @@ I'm open for **freelance work and collaborations**. Feel free to reach out via L
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammedahmed20&color=38BDF8&style=for-the-badge&label=Profile+Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammedahmed20&count_bg=%2338BDF8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" />
 
 </div>
