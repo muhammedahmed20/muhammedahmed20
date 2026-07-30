@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Ahmed;Frontend+Engineer+%7C+Freelancer;Building+Fast%2C+Clean+%26+Scalable+Web+Apps;React+%E2%80%A2+Tailwind+%E2%80%A2+Supabase+%E2%80%A2+Strapi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Ahmed;Frontend+Developer+%7C+Freelancer;Building+Fast%2C+Clean+%26+Scalable+Web+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Supabase" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ### 🧭 About Me
 
-I'm a **Frontend Engineer & Freelancer** based in Egypt, focused on building fast, clean, and scalable web experiences. I don't just write code — I turn ideas into usable, production-ready products, caring equally about **how things look** and **how they work**.
+I'm a **Frontend Developer & Freelancer** based in Egypt, focused on building fast, clean, and scalable web experiences. I don't just write code — I turn ideas into usable, production-ready products, caring equally about **how things look** and **how they work**.
 
 When a project calls for it, I extend into **full-stack development**, handling backend integration end-to-end to ship complete solutions.
 
@@ -30,7 +30,10 @@ When a project calls for it, I extend into **full-stack development**, handling 
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
@@ -75,10 +78,10 @@ Fast load times and clean architecture on every project I ship.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammedahmed20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedahmed20&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedahmed20&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -95,6 +98,6 @@ I'm open for **freelance work and collaborations**. Feel free to reach out via L
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=muhammedahmed20&color=38BDF8&style=for-the-badge&label=Profile+Views" />
 
 </div>
