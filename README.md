@@ -96,7 +96,7 @@ Fast load times and clean architecture on every project I ship.
 
 My personal portfolio website showcasing my work and skills.
 
-`Next.js` `Tailwind CSS`
+`Next.js` `Tailwind CSS` `Supabase` `shadcn/ui`
 
 </td>
 <td width="50%" valign="top">
