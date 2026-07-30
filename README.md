@@ -80,40 +80,40 @@ Fast load times and clean architecture on every project I ship.
 <tr>
 <td width="50%" valign="top">
 
-**[Project Name 1](https://github.com/muhammedahmed20/repo-name)**
+**[🌐 Personal Portfolio](https://github.com/muhammedahmed20/mohamed-elgamal-portfolio)**
 
-Short one-line description of what it does and the problem it solves.
+My personal portfolio website showcasing my work and skills.
 
-`React` `Tailwind` `Supabase`
+`Next.js` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-**[Project Name 2](https://github.com/muhammedahmed20/repo-name)**
+**[🛒 Ecobazar E-commerce](https://github.com/muhammedahmed20/ecobazar-ecommerce)**
 
-Short one-line description of what it does and the problem it solves.
+A full e-commerce storefront with product browsing and cart functionality. [Live demo](https://ecobazar-ecommerce-two.vercel.app)
 
-`Next.js` `TypeScript` `Strapi`
+`React` `Vite`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Project Name 3](https://github.com/muhammedahmed20/repo-name)**
+**[⚡ create-gml-react](https://github.com/muhammedahmed20/create-gml-react)**
 
-Short one-line description of what it does and the problem it solves.
+An interactive CLI to scaffold a modern Vite + React project (Tailwind v4, Zustand, shadcn/ui) in seconds.
 
-`React` `Zustand` `Axios`
+`CLI` `Vite` `Zustand` `shadcn/ui`
 
 </td>
 <td width="50%" valign="top">
 
-**[Project Name 4](https://github.com/muhammedahmed20/repo-name)**
+**[🎯 PlaySpot](https://github.com/muhammedahmed20/playspot)**
 
-Short one-line description of what it does and the problem it solves.
+A web app for discovering and booking playing spots. [Live demo](https://playspot-rosy.vercel.app)
 
-`shadcn/ui` `Motion` `Supabase`
+`React` `Vite` `Supabase`
 
 </td>
 </tr>
@@ -138,6 +138,6 @@ I'm open for **freelance work and collaborations**. Feel free to reach out via L
 
 <br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammedahmed20&count_bg=%2338BDF8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" />
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=muhammedahmed20&repo=muhammedahmed20&countColor=%2338BDF8&label=Profile%20Views" />
 
 </div>
