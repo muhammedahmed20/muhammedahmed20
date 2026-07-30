@@ -1,35 +1,100 @@
-## 👋 Hey, I'm Muhammed Ahmed
+<div align="center">
 
-Frontend Engineer & Freelancer based in Egypt — focused on building fast, clean, and scalable web experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Ahmed;Frontend+Engineer+%7C+Freelancer;Building+Fast%2C+Clean+%26+Scalable+Web+Apps;React+%E2%80%A2+Tailwind+%E2%80%A2+Supabase+%E2%80%A2+Strapi" alt="Typing SVG" />
 
-I don’t just write code, I turn ideas into usable products. From crafting smooth user interfaces to integrating backend services, I care about both how things look and how they work.
+<br/>
 
-### ⚡ What I work with
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-486650224)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-elgamal-six.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-React • Tailwind CSS • Zustand • Axios • Supabase • Strapi
+</div>
 
-I also handle full-stack tasks when the project needs it — especially when it comes to shipping complete, production-ready apps.
+---
 
-### 🚀 What I enjoy
+### 🧭 About Me
 
-* Building polished UI with attention to detail
-* Creating seamless user experiences
-* Turning concepts into real, working products
+I'm a **Frontend Engineer & Freelancer** based in Egypt, focused on building fast, clean, and scalable web experiences. I don't just write code — I turn ideas into usable, production-ready products, caring equally about **how things look** and **how they work**.
 
-### 💼 Work & Projects
+When a project calls for it, I extend into **full-stack development**, handling backend integration end-to-end to ship complete solutions.
 
-I’ve delivered multiple freelance projects, focusing on performance, clean architecture, and client satisfaction.
-Always experimenting, always improving.
+- 🔭 Currently working on freelance projects focused on performance & clean architecture
+- 🌱 Always experimenting, always improving
+- 💬 Ask me about React, Tailwind CSS, Zustand, or Supabase
+- ⚡ Fun fact: coffee fuels most of my commits ☕
 
-### 📫 Reach me
+---
 
-• LinkedIn: [muhammed-ahmed](https://www.linkedin.com/in/mohamed-ahmed-486650224)  
-• Portfolio: [muhammed-ahmed](https://mohamed-elgamal-six.vercel.app/)
+### 🛠️ Tech Stack
 
-Open for freelance work and collaborations.
+<div align="center">
 
-### 🎯 A bit more about me
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-* I enjoy clean code as much as clean design
-* Performance matters — always
-* Coffee fuels most of my commits ☕
+</div>
+
+---
+
+### 💼 Focus Areas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎨 UI Craftsmanship**
+Building polished, pixel-perfect interfaces with strong attention to detail.
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Product Thinking**
+Turning raw ideas into real, usable products — not just components.
+
+</td>
+<td width="33%" valign="top">
+
+**🚀 Performance First**
+Fast load times and clean architecture on every project I ship.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+I'm open for **freelance work and collaborations**. Feel free to reach out via LinkedIn or check out my portfolio for recent work.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-486650224)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-elgamal-six.vercel.app/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=for-the-badge&label=Profile+Views" />
+
+</div>
